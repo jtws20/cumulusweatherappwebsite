@@ -13,12 +13,12 @@ Rise takes your privacy seriously which is why it is built to not track you or s
 <br>
 
 # Privacy 
-Rise takes your privacy and personal data seriously. Cumulus will only retrieve the least information that is necessary. Individual users are never tracked and personal data is never given to third parties.
+Rise takes your privacy and personal data seriously. Rise will only retrieve the least information that is necessary. Individual users are never tracked and personal data is never given to third parties.
 
 <br>
 
 # Location Information
-You may opt to grant Cumulus access to your location to receive localized weather forecasts. Rise does not require access to your location however some of its features do. For the most accurate weather forecasts location permission is recommended but is not required. You can enable location access by selecting to allow location access "While Using the App" or "Always". You can always change the location access on your devices' settings.
+You may opt to grant Rise access to your location to receive localized weather forecasts. Rise does not require access to your location however some of its features do. For the most accurate weather forecasts location permission is recommended but is not required. You can enable location access by selecting to allow location access "While Using the App" or "Always". You can always change the location access on your devices' settings.
 
 <br>
 
