@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1441446893                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1583463939                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 :                                
 your_link                                 :                      
 your_city                                 :                                 
-email_address                             : support@cumulusweatherapp.com
+email_address                             : support@riseweatherapp.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Simple Design
-    description                           : Cumulus is designed to not make you feel overwhelmed with information or ads while also never leaving you feeling unprepared for the weather. View hourly forecasts up to 24 hours in advance and daily forecasts up to 10 days.
+    description                           : Rise is designed to not make you feel overwhelmed with information or ads while also never leaving you feeling unprepared for the weather. View hourly forecasts up to 24 hours in advance and daily forecasts up to 10 days.
     fontawesome_icon_name                 : ruler-combined
     
   - title                                 : Detailed Forecasts
@@ -51,11 +51,11 @@ features                                  :
     fontawesome_icon_name                 : adjust
 
   - title                                 : Powered by the best
-    description                           : Cumulus' forecasting abilities are powered by the Dark Sky and OpenWeather servers. They allow Cumulus to get countless information about the weather like knowing when precipitation will start and end, or seeing future weather conditions.
+    description                           : Rise' forecasting abilities are powered by the Dark Sky and OpenWeather APIs.
     fontawesome_icon_name                 : broadcast-tower
     
-  - title                                 : Cumulus Free
-    description                           : The free version of Cumulus gives you all the meteorological goodness with no obtrusive ads. Upgrade to Cumulus+ to unlock advanced features including alternate app icons, color themes, more hourly condition forecasts, and more!
+  - title                                 : Rise Free
+    description                           : The free version of Rise gives you all the meteorological goodness with no obtrusive ads. Upgrade to Rise+ to unlock all features.
     fontawesome_icon_name                 : palette
 
   - title                                 : # New Feature Title
