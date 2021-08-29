@@ -1,4 +1,4 @@
-# The official Cumulus Weather app website. 
+# The official Rise Weather app website. 
 
 
 ## Credits
