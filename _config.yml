@@ -35,27 +35,27 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Simple Design
-    description                           : Rise is designed to not make you feel overwhelmed with information or ads while also never leaving you feeling unprepared for the weather. View hourly forecasts up to 24 hours in advance and daily forecasts up to 10 days.
+    description                           : Quickly and easily view the forecast without any annoying ads.
     fontawesome_icon_name                 : ruler-combined
     
   - title                                 : Detailed Forecasts
-    description                           : Tap the current conditions card to view different conditions like cloud cover and sunrise or sunset. Swipe the hourly cards to view hourly conditions like precipitation, accumulation, or wind. Tap the daily cards to view conditions like visibility or pressure. All done seamlessly with just a tap or swipe.
+    description                           : Get into the details and view forecasts up to 24-hours and 10-days in advance. 
     fontawesome_icon_name                 : angle-double-right
     
   - title                                 : Dark Mode
-    description                           : Avoid straining your eyeballs by turning on dark mode and get a better viewing experience in low-light environments.
+    description                           : Get better viewing experience in low-light environments.
     fontawesome_icon_name                 : eye
 
   - title                                 : Handy Widgets
-    description                           : Check the weather at a glance right from your home screen with small, medium, and large widgets to choose from. View current weather conditions, the forecast over the next 12 hours, or daily forecasts up to 4 days in advance.
+    description                           : Check the weather at a glance right from your home screen.
     fontawesome_icon_name                 : adjust
 
   - title                                 : Powered by the best
-    description                           : Rise' forecasting abilities are powered by the Dark Sky and OpenWeather APIs.
+    description                           : Powered by best in the industry including the Dark Sky and OpenWeather APIs.
     fontawesome_icon_name                 : broadcast-tower
     
   - title                                 : Rise Free
-    description                           : The free version of Rise gives you all the meteorological goodness with no obtrusive ads. Upgrade to Rise+ to unlock all features.
+    description                           : The free version of Rise gives you all the meteorological goodness. Upgrade to Rise+ to unlock all features.
     fontawesome_icon_name                 : palette
 
   - title                                 : # New Feature Title
@@ -70,7 +70,7 @@ topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_overlay_color                       : "#2B2B2B"
 cover_overlay_transparency                : 1.0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
