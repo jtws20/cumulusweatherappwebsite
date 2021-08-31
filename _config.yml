@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : angle-double-right
     
   - title                                 : Dark Mode
-    description                           : Get better viewing experience in low-light environments.
+    description                           : Get a better viewing experience in low-light environments.
     fontawesome_icon_name                 : eye
 
   - title                                 : Handy Widgets
@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
 
   - title                                 : Powered by the best
-    description                           : Powered by best in the industry including the Dark Sky and OpenWeather APIs.
+    description                           : Powered by the Dark Sky and OpenWeather APIs.
     fontawesome_icon_name                 : broadcast-tower
     
   - title                                 : Rise Free
