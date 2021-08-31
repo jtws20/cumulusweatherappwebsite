@@ -8,7 +8,7 @@ include_in_header: false
 August, 29, 2021
 
 # Your Privacy Matters
-Rise takes your privacy seriously which is why it is built to not track you or store any personally identifiable information on any servers. I hope that someone finds it to be safe, useful, and reliable to check the weather.
+Rise takes your privacy seriously which is why it is built to not track you or store any personally identifiable information on any servers.
 
 <br>
 
